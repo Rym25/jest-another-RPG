@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-RPG",
+  "version": "1.0.0",
+  "description": "command line RPG to learn OOP and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rym25/jest-another-RPG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rym25/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Rym25/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
