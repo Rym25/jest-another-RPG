@@ -1,7 +1,5 @@
 const Potion = require('../lib/Potion');
 const Player = require('../lib/Player');
-const { expect, test } = require('@jest/globals');
-const exp = require('constants');
 
 jest.mock('../lib/Potion');
 
